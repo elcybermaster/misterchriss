@@ -1,8 +1,20 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Aloha! Nice to see you.</h1>
 
-- 🔭 I’m currently working on Shopify Projects
-- 🌱 I’m currently learning JavaScript & Python
-- 👯 I’m looking to collaborate on Ecommerce Projects
-- 💬 Ask me about Shopify Store Setup, Cloud Security
-- 📫 How to reach me: Twitter or Instagram _misterchriss_
-- ⚡ Fun fact: The 1st Programming Language I was exposed was C++ " Ouch, lol!!! "
+
+<p>Welcome to my page! </br> I'm Cristian, Fullstack developer from> <b>Boston, Massachusetts</b>
+
+<h3>Things I code with</h3>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
