@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Aloha! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Cristian, Fullstack developer from> <b>Boston, Massachusetts</b>
+<p>Welcome to my page! </br> My name is Cristian, I am a Fullstack developer located in> <b>Boston, Massachusetts</b>
 
 <h3>Things I code with</h3>
 <p>
